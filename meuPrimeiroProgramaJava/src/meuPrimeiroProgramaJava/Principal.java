@@ -27,4 +27,5 @@ public class Principal {
 		in.close();
 	}
 
+		//NOTA: implementar leitura de idade e exibi-la
 }
