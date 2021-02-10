@@ -14,9 +14,11 @@ public class Principal {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		//saudação e pergunta o nome
 		System.out.println("Olá amigo!\nQual é o seu nome?");//Uso do println
 		
-		//Ler uma string do console usando a biblioteca scanner
+		//Ler o nome
 		Scanner in = new Scanner(System.in);
 		String nome = in.nextLine();
 
